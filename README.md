@@ -1,7 +1,6 @@
 <div align="center" width="50">
 
-<img src="https://raw.githubusercontent.com/adam-t-z/adam-t-z/main/assets/ai_banner.gif" alt="AI Developer Banner" width="60%"/> <br>
-<img src="https://raw.githubusercontent.com/adam-t-z/adam-t-z/main/assets/dev_working.gif" alt="Workspace" width="40%"/> <br>
+<img src="https://raw.githubusercontent.com/adam-t-z/adam-t-z/main/assets/typingGithubBanner.gif" alt="AI Developer Banner" width="60%"/> <br>
 
 </details>
 
@@ -56,15 +55,19 @@ class AboutMe:
 . <br>
 
 ⚡ Fun fact: The term “Artificial Intelligence” was coined in 1956, but it feels brand new every year. <br>
-
+<!--
 <div align="center"> <a href="https://github.com/adam-t-z"> <img src="https://raw.githubusercontent.com/adam-t-z/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32.5%"> <img src="https://raw.githubusercontent.com/adam-t-z/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32.5%"> <img src="https://raw.githubusercontent.com/adam-t-z/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32.5%"> </a> <details> <summary>📊 More stats</summary> <img align="center" src="https://raw.githubusercontent.com/adam-t-z/profile-summary-cards/master/profile-summary-card-output/nord_dark/0-profile-details.svg"> </details> <hr></hr>
+-->
+---
 
 
-AI Development Cycle <br>
+<div align="center">
+    AI Development Cycle <br><br>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%" alt="Training!"/> &nbsp;&nbsp;&nbsp; <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="10%" alt="Model works!"/> &nbsp;&nbsp;&nbsp; <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%" alt="It works but you don't know how!"/><br>
+</div>
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%" alt="Training!"/> &nbsp;&nbsp;&nbsp; <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="10%" alt="Model works!"/> &nbsp;&nbsp;&nbsp; <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%" alt="It works but you don't know how!"/><br> </div> ```
-
-
+<br>
+<br>
 <p align="center">
 <a href="https://www.linkedin.com/in/placeholder"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" /></a>
 <a href="mailto:adam.taisir@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
