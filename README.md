@@ -45,16 +45,13 @@ class AboutMe:
         self.tools = ["Docker", "Kubernetes", "Git", "MLflow", "Weights & Biases"]
         self.platforms = ["Google Cloud", "Linux", "VS Code"]
 ```
-<img alt="GIF" src="https://raw.githubusercontent.com/adam-t-z/adam-t-z/main/assets/ai_coding.gif" width="40" />   I’m currently improving my RAG and LLM fine-tuning pipelines. <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Owl.png" alt="Owl" width="15%" /><br>
+<br>
 
-<img src="https://raw.githubusercontent.com/adam-t-z/adam-t-z/main/assets/data_viz.gif" width="20" />    I love exploring AI-driven data visualization. <br>
+- <img alt="GIF" src="https://raw.githubusercontent.com/adam-t-z/adam-t-z/main/assets/hyperkitty.gif" width="20" />   I’m currently improving my RAG and LLM fine-tuning pipelines. <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Owl.png" alt="Owl" width="15%" /><br>
+- <img src="https://raw.githubusercontent.com/adam-t-z/adam-t-z/main/assets/Developer.gif" width="20" />    I love exploring AI-driven data visualization. <br>
+- <img src="https://raw.githubusercontent.com/adam-t-z/adam-t-z/main/assets/message.gif" width="25" />   Ask me about AI Connect with me on [LinkedIn](https://www.linkedin.com/in/adam-taisir)<br>
+- <img src="https://raw.githubusercontent.com/adam-t-z/adam-t-z/main/assets/lightning.gif" width="10" />  Fun fact: The term “Artificial Intelligence” was coined in 1956, but it feels brand new every year.
 
-<img src="https://raw.githubusercontent.com/adam-t-z/adam-t-z/main/assets/message.gif" width="25" />   Ask me about AI, data analysis, or web scraping. <br>
-
-<img src="https://raw.githubusercontent.com/adam-t-z/adam-t-z/main/assets/letterbox.gif" width="25" />   Connect with me on [LinkedIn](https://www.linkedin.com/in/adam-taisir)
-. <br>
-
-⚡ Fun fact: The term “Artificial Intelligence” was coined in 1956, but it feels brand new every year. <br>
 <!--
 <div align="center"> <a href="https://github.com/adam-t-z"> <img src="https://raw.githubusercontent.com/adam-t-z/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32.5%"> <img src="https://raw.githubusercontent.com/adam-t-z/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32.5%"> <img src="https://raw.githubusercontent.com/adam-t-z/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32.5%"> </a> <details> <summary>📊 More stats</summary> <img align="center" src="https://raw.githubusercontent.com/adam-t-z/profile-summary-cards/master/profile-summary-card-output/nord_dark/0-profile-details.svg"> </details> <hr></hr>
 -->
