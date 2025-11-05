@@ -45,7 +45,7 @@ class AboutMe:
         self.tools = ["Docker", "Kubernetes", "Git", "MLflow", "Weights & Biases"]
         self.platforms = ["Google Cloud", "Linux", "VS Code"]
 ```
-<img alt="GIF" src="https://raw.githubusercontent.com/adam-t-z/adam-t-z/main/assets/ai_coding.gif" width="25" />   I’m currently improving my RAG and LLM fine-tuning pipelines. <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Owl.png" alt="Owl" width="15%" /><br>
+<img alt="GIF" src="https://raw.githubusercontent.com/adam-t-z/adam-t-z/main/assets/ai_coding.gif" width="40" />   I’m currently improving my RAG and LLM fine-tuning pipelines. <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Owl.png" alt="Owl" width="15%" /><br>
 
 <img src="https://raw.githubusercontent.com/adam-t-z/adam-t-z/main/assets/data_viz.gif" width="20" />    I love exploring AI-driven data visualization. <br>
 
