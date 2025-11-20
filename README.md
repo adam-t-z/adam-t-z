@@ -47,7 +47,7 @@ class AboutMe:
 ```
 <br>
 
-- <img alt="GIF" src="https://raw.githubusercontent.com/adam-t-z/adam-t-z/main/assets/hyperkitty.gif" width="20" />   I’m currently improving my RAG and LLM fine-tuning pipelines. <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Owl.png" alt="Owl" width="15%" /><br>
+- <img alt="GIF" src="https://raw.githubusercontent.com/adam-t-z/adam-t-z/main/assets/hyperkitty.gif" width="20" />   I’m currently improving my AI Agents and LLM fine-tuning pipelines. <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Owl.png" alt="Owl" width="15%" /><br>
 - <img src="https://raw.githubusercontent.com/adam-t-z/adam-t-z/main/assets/Developer.gif" width="20" />    I love exploring AI-driven data visualization. <br>
 - <img src="https://raw.githubusercontent.com/adam-t-z/adam-t-z/main/assets/message.gif" width="25" />   Ask me about AI Connect with me on [LinkedIn](https://www.linkedin.com/in/adam-taisir)<br>
 - <img src="https://raw.githubusercontent.com/adam-t-z/adam-t-z/main/assets/lightning.gif" width="10" />  Fun fact: The term “Artificial Intelligence” was coined in 1956, but it feels brand new every year.
